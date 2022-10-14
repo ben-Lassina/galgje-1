@@ -9,5 +9,8 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1. i - niet goed!
+1. niet goed
 2. 
+3. 
+4. 
+5. 
