@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|m|-|-|-|-|
+|p|a|s|t|a|
 |1|2|3|4|5|
 
 ## Score
