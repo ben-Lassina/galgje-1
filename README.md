@@ -10,7 +10,7 @@
 
 ## Beurten
 1. niet goed
-2. 
-3. 
-4. 
-5. 
+2. niet goed
+3. niet goed
+4. niet goed
+5. niet goed
